@@ -1,7 +1,2 @@
-# hemanshu-first
-My first Github repository
-this is the first change being made on the file. now committing the change. 
-
-regards
-hemanshu sood
-
+# Kubernetes course
+This repository contains the course files for my Kubernetes course on Udemy: https://www.udemy.com/learn-devops-the-complete-kubernetes-course/?couponCode=KUBERNETES_GITHUB
